@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Anakin Skywalker",
+    "image": "https://i.pinimg.com/originals/36/25/91/362591d54fe533d63b697bd2f5262fee.jpg",
+    "occupation": "Jedi Master",
+    "location": "Coruscant"
+  },
+  {
+    "id": 2,
+    "name": "Mace Windu",
+    "image": "https://nbchardballtalk.files.wordpress.com/2012/07/sam-jackson.jpg",
+    "occupation": "Jedi Master",
+    "location": "Coruscant"
+  },
+  {
+    "id": 3,
+    "name": "Yoda",
+    "image": "http://digitalspyuk.cdnds.net/16/05/980x490/landscape-1454599237-movies-star-wars-yoda.jpg",
+    "occupation": "Jedi Master",
+    "location": "Coruscant"
+  },
+  {
+    "id": 4,
+    "name": "Han Solo",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/0/01/Hansoloprofile.jpg/revision/latest/scale-to-width-down/499?cb=20100129155042",
+    "occupation": "Captain Smuggler",
+    "location": "Corellia"
+  },
+  {
+    "id": 5,
+    "name": "Stormtrooper",
+    "image": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/e6da77e1-cb33-4f87-aac9-ee15374ba27b.jpg",
+    "occupation": "Soldier",
+    "location": "Kamino"
+  },
+  {
+    "id": 6,
+    "name": "Luke Skywalker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Luke_Skywalker.png/220px-Luke_Skywalker.png",
+    "occupation": "Jedi",
+    "location": "Tatooine"
+  },
+  {
+    "id": 7,
+    "name": "Leia Organa",
+    "image": "http://i0.kym-cdn.com/photos/images/original/001/204/973/354.jpg",
+    "occupation": "Princess Ambassador",
+    "location": "Alderaan"
+  },
+  {
+    "id": 8,
+    "name": "Darth Maul",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Darth_Maul.png/220px-Darth_Maul.png",
+    "occupation": "Sith",
+    "location": "Dathomir"
+  },
+  {
+    "id": 9,
+    "name": "Emperor Palpatine",
+    "image": "https://www.sideshowtoy.com/wp-content/uploads/2018/02/star-wars-emperor-palpatine-deluxe-version-sixth-scale-figure-hot-toys-feature-903110.jpg",
+    "occupation": "Sith Lord",
+    "location": "Naboo"
+  },
+  {
+    "id": 10,
+    "name": "Chewbacca",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png/revision/latest?cb=20171231005834",
+    "occupation": "Warrior",
+    "location": "Kashyyyk"
+  },
+  {
+    "id": 11,
+    "name": "Padme Amidala",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg/revision/latest?cb=20100423143631",
+    "occupation": "Senator",
+    "location": "Naboo"
+  },
+  {
+    "id": 12,
+    "name": "Obi-Wan-Kenobi",
+    "image": "https://lrmonline.com/file/2017/08/lucasfilm.jpg",
+    "occupation": "Jedi Master",
+    "location": "Coruscant"
+  }
+]
